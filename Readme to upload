@@ -1,0 +1,1 @@
+rsync -rhz --progress --delete . web@ampere.znp-group.com:khanederlistan.tk
