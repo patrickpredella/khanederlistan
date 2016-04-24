@@ -201,7 +201,7 @@ p{
 }
 
 .mongolia-banner {
-	background-image: url(./keyart-mobile.jpg);
+	background-image: url(../img/homepage/keyart-mobile.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -251,15 +251,15 @@ p{
 }
 
 .chess1 {
-  background-image: url(../Khanederlistan_files/chess1.jpg);
+  background-image: url(../img/homepage/chess1.jpg);
 }
 
 .chess2 {
-  background-image: url(../Khanederlistan_files/chess2.jpg);
+  background-image: url(../img/homepage/chess2.jpg);
 }
 
 .khan-bg {
-  background-image: url(../Khanederlistan_files/banner_khanederlo_white_bg.png);
+  background-image: url(../img/homepage/banner_khanederlo_white_bg.png);
 }
 
 .people {

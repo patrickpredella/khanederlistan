@@ -1,3 +1,1 @@
-Run this line with a terminal in the "Website" folder
-
 rsync -rhz --progress --delete . web@ampere.znp-group.com:khanederlistan.tk
