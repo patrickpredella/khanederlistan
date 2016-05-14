@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="223.97127mm"
-   height="65.734192mm"
-   viewBox="0 0 793.59898 232.91643"
+   width="251.97127mm"
+   height="85.734192mm"
+   viewBox="0 0 892.81158 303.78257"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="210.44591"
-     inkscape:cy="20.581722"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-59.586454"
+     inkscape:cy="56.655602"
      inkscape:document-units="px"
      inkscape:current-layer="g4271"
      showgrid="false"
@@ -37,10 +37,10 @@
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="10"
+     fit-margin-left="14"
+     fit-margin-right="14"
+     fit-margin-bottom="10" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -57,7 +57,7 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(25.926761,-409.55603)">
+     transform="translate(75.53306,-374.12296)">
     <g
        id="g4271">
       <path
